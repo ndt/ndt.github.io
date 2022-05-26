@@ -1,3 +1,8 @@
+---
+layout: post
+author: ndt
+---
+
 # Ansible Controller in WSL2
 
 Ansible cannot be run directly on Windows (who would ever want to do that either? ;-)
